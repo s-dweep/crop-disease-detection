@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Recognition System 🔍
+# 🌿 Crop Disease Recognition System 🔍
 
 <div align="left">
 
